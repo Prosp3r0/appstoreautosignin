@@ -1,6 +1,6 @@
 # About 
 
-This tweek is able to fetch Apple IDs from certain database, and sign them in on a iOS device consecutively. (Only tested on iOS 9.3.3)
+This tweek works for batch sign in Apple IDs on a iOS device. (Only tested on jailbreaked iOS 9.3.3)
 
 # Compile Dependency  
 
