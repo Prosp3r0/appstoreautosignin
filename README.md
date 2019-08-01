@@ -10,7 +10,7 @@ This tweek works for batch sign in Apple IDs on a iOS device. (Only tested on ja
 # How to Work
 
 1. This tweek can be activated by hooking on "PreferencesAppController" of Preferences.app(Settings.app).
-2. Invaking the private APIs [SSAccountStore signOutAllAccounts], [SSAuthenticateRequest start] to achive sign out, sign in respectively.
+2. Invaking the private APIs [SSAccountStore signOutAllAccounts] and [SSAuthenticateRequest start] to achive sign out and sign in respectively.
 
 
  
